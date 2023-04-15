@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Lego Star Wars Millennium Falcon",
+    "description": "Build the iconic starship from the Star Wars saga",
+    "year": 2021,
+    "price": 150.99
+  },
+  {
+    "name": "Barbie Dreamhouse",
+    "description": "A dream house for Barbie and her friends to play in",
+    "year": 2022,
+    "price": 189.99
+  },
+  {
+    "name": "Hot Wheels Ultimate Garage",
+    "description": "The ultimate Hot Wheels playset with multiple levels and tracks",
+    "year": 2020,
+    "price": 99.99
+  },
+  {
+    "name": "Nerf Ultra One Blaster",
+    "description": "A high-performance Nerf blaster with advanced dart-firing technology",
+    "year": 2021,
+    "price": 49.99
+  },
+  {
+    "name": "Play-Doh Kitchen Creations Ultimate Chef Set",
+    "description": "A creative playset for making all kinds of Play-Doh foods",
+    "year": 2022,
+    "price": 29.99
+  },
+  {
+    "name": "Melissa & Doug Wooden Train Set",
+    "description": "A classic wooden train set for kids to build and play with",
+    "year": 2020,
+    "price": 59.99
+  },
+  {
+    "name": "Fisher-Price Laugh & Learn Servin' Up Fun Food Truck",
+    "description": "A fun food truck playset with interactive learning features",
+    "year": 2021,
+    "price": 69.99
+  },
+  {
+    "name": "VTech KidiZoom Creator Cam",
+    "description": "A kid-friendly camera and video recorder with special effects and editing features",
+    "year": 2022,
+    "price": 59.99
+  },
+  {
+    "name": "Beyblade Burst Rise Hypersphere Vertical Drop Battle Set",
+    "description": "A Beyblade battle arena with a vertical drop feature for exciting battles",
+    "year": 2021,
+    "price": 39.99
+  },
+  {
+    "name": "PAW Patrol Dino Rescue Dino Patroller Motorized Team Vehicle",
+    "description": "A motorized PAW Patrol vehicle with a dinosaur theme",
+    "year": 2022,
+    "price": 59.99
+  }
+]

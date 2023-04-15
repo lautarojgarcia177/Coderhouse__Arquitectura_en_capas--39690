@@ -1,0 +1,52 @@
+[
+  {
+    "username": "johndoe",
+    "fullname": "John Doe",
+    "password": "password123"
+  },
+  {
+    "username": "janedoe",
+    "fullname": "Jane Doe",
+    "password": "abc123"
+  },
+  {
+    "username": "bobsmith",
+    "fullname": "Bob Smith",
+    "password": "ilovecats"
+  },
+  {
+    "username": "sarahbrown",
+    "fullname": "Sarah Brown",
+    "password": "pa$$word"
+  },
+  {
+    "username": "alexwilson",
+    "fullname": "Alex Wilson",
+    "password": "12345678"
+  },
+  {
+    "username": "emilyjones",
+    "fullname": "Emily Jones",
+    "password": "password1"
+  },
+  {
+    "username": "michaeltaylor",
+    "fullname": "Michael Taylor",
+    "password": "p@ssw0rd"
+  },
+  {
+    "username": "amandasmith",
+    "fullname": "Amanda Smith",
+    "password": "qwer1234"
+  },
+  {
+    "username": "jamesharris",
+    "fullname": "James Harris",
+    "password": "987654321"
+  },
+  {
+    "username": "ashleybrown",
+    "fullname": "Ashley Brown",
+    "password": "password2022"
+  }
+]
